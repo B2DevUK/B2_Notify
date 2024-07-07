@@ -15,12 +15,6 @@ I'd like to preface this by saying yes, this system is extremely simplistic as I
 
 ## Installation
 
-1. Clone or download the repository to your FiveM resources folder.
-2. Ensure you have the necessary dependencies:
-    - [Vue.js](https://vuejs.org/)
-    - [Tailwind CSS](https://tailwindcss.com/)
-
-
 1. **Download the script**:
    - Clone this repository or download the ZIP file and extract it.
 
