@@ -95,8 +95,12 @@ exports['b2_notify']:notify('success', 'This is a success notification from anot
 ### Notification Styles
 
 - `normal`: Default style with all features.
+https://github.com/B2DevUK/B2_Notify/blob/main/github/Screenshot_2.png
+
+https://github.com/B2DevUK/B2_Notify/blob/main/github/Screenshot_3.png
 - `minimalistic`: Simplified style without a progress bar.
 - `small`: Compact style with reduced size.
+https://github.com/B2DevUK/B2_Notify/blob/main/github/Screenshot_1.png
 
 ## Files
 
