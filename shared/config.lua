@@ -1,5 +1,5 @@
 Config = {}
-Config.notificationStyle = "small"  -- Options: "normal", "minimalistic", "small"
+Config.notificationStyle = "normal"  -- Options: "normal", "minimalistic", "small"
 
 -- Defines different types of notifications - You can add your own, but you will need to support this in the client.lua & the NUI Code.
 Config.notificationTypes = {
