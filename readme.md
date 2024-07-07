@@ -1,5 +1,8 @@
 # B2_Notify Notification Script
 
+## Support
+If you have any issues or suggestions, please open an issue on the GitHub repository, or in my script [discord](https://discord.gg/KZRBA6H5kR)
+
 ## Overview
 
 This script provides a customizable notification system for FiveM servers using Vue.js and Tailwind CSS. The notifications can be styled in different ways, including normal, minimalistic, and small versions.
@@ -127,6 +130,3 @@ Here are some other scripts that use this notification resource:
 
 - [Anti Bunny Hop](https://github.com/B2DevUK/B2_AntiBunnyHop)
 - [AFK System](https://github.com/B2DevUK/B2_AFKSystem)
-
-## Support
-If you have any issues or suggestions, please open an issue on the GitHub repository, or in my script [discord](https://discord.gg/KZRBA6H5kR)
